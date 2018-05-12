@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6164'
     url: http://www.gutenberg.org/2009/agents/6164
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15617#Cyclopedia-of-Telephony-and-Telegraphy-Vol.-1--13-A-General-Reference-Work-on-Telephony-etc.-_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2005-04-14'
 gutenberg_type: Text
